@@ -639,7 +639,8 @@ a {
     right: 39px;
     z-index: 98;
     padding: 21px;
-    background-color: hsla(5, 76%, 62%, .8)
+    opacity: 75% ;
+    background-color: #bac964;
 }
 
 .js .cd-top--fade-out {
@@ -681,7 +682,14 @@ hsla(5, 76%, 62%, .8);
 
 
 
+.app_iphone_02 {
+  position: absolute;
+  right: 75%;
+  bottom: -5%;
+  z-index: 1;
 
+ 
+}
 
 
 
